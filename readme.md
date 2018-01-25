@@ -1,9 +1,9 @@
-#Snowmeter
+# Snowmeter
 This is a device that will tell you what wax to use on your skis
 
 
 
-##Usage
+## Usage
 Upload the code to the Particle Photon Developer page
 Flash to the Photon
 Put the photon on the weather shield
