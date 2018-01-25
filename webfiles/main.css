@@ -1,0 +1,112 @@
+body{
+	background-color: #f5f8fa;
+}
+h1{
+	
+}
+
+h2{
+	
+}
+
+h3{
+	
+}
+
+#package{
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: white;
+}
+
+#holder{
+	text-align: center;
+}
+
+#header{
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#footer{
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#one{
+	width:200px;
+    height:200px;
+    border-radius:50%;
+    background: #ddd;
+    display:block;
+	margin-right: auto;
+    margin-left: auto;
+	font-size: 13pt;
+	padding-top: 35%;
+    background-position-y:25%; 
+}
+
+#two{
+	width:200px;
+    height:200px;
+    border-radius:50%;
+    background: #ddd;
+    display:block;
+	margin-right: auto;
+    margin-left: auto;
+	font-size: 13pt;
+	padding-top: 35%;
+    background-position-y:25%; 
+}
+
+#three{
+	width:200px;
+    height:200px;
+    border-radius:50%;
+    background: #ddd;
+    display:block;
+	margin-right: auto;
+    margin-left: auto;
+	font-size: 13pt;
+	padding-top: 35%;
+    background-position-y:25%;
+}
+
+#four{
+	width:200px;
+    height:200px;
+    border-radius:50%;
+	background: #ddd;
+    display:block;
+	margin-right: auto;
+    margin-left: auto;
+	font-size: 13pt;
+	padding-top: 35%;
+    background-position-y:25%; 
+}
+
+#temp{
+	
+}
+
+#snow{
+	
+}
+
+#race{
+	
+}
+
+#training{
+	
+}
+
+
+
+
+
+
+
