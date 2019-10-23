@@ -1,5 +1,5 @@
 # Snowmeter
-This is a device that will tell you what wax to use on your skis
+This is a device that will tell you what wax to use on your skis. This app is written in ArduinoC and HTML/Vanilla JavaScript
 
 
 
